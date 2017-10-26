@@ -200,7 +200,7 @@ Bring Down the Network
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Finally, let's bring it all down so we can explore the network setup one step
-at a time. The following will kill your containers, remove the crypto material
+at a time. The following will kill ALL your containers(not just the ones created using BYFN), remove the crypto material
 and four artifacts, and delete the chaincode images from your Docker Registry:
 
 .. code:: bash
